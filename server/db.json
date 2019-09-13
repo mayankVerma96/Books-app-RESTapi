@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "title": "The Great Gatsby",
+      "rating": "4.6",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Harry Potter",
+      "rating": "4.5"
+    },
+    {
+      "title": "Call Me By Your Name",
+      "rating": "4.7",
+      "id": "KBcK6wC"
+    },
+    {
+      "title": "Starboy",
+      "rating": "4.8",
+      "id": "pAgYwSE"
+    }
+  ]
+}
